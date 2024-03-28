@@ -1,30 +1,24 @@
-# Hi there, I'm Sooraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
+# Hi there, I'm Tiann Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
 
 ![Me](https://github.com/Tianndev/tianndev/blob/main/Github_Readme.png)
 
-I am a developer and enthusiast. I work mainly on Vanilla JS, React JS, Node JS, Typescript and Firebase. Check out my story at [http://sooraj-portfolio.vercel.app/](http://sooraj-portfolio.vercel.app/).
+I am a software engineer and also a data analyst, I love learning about javascript, python and flutter
 
 ### Fun Facts about me:
-- 💻 Front-End Developer at Aquent/John Deere.
-- 💬 Developing a package called [Tooltip Sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence).
-- ✐ Creating [animations](https://iphone-7-ios13.netlify.app/) on the web.
-- 🎸 Guitarist 🤘🏻.
-- 🎮 Rocket League with ❤️.
+- 💻 Website Development.
+- 💬 Mobile Apps Development
+- ✐ Software Development Tools
+- DevOps Solution.
+- 🎮 Game Development
+- Data Analytics
+- Cybersecurity Solution
 
 ### Languages I'm familiar with
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,java,swift,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,python,flutter,ts,html,css,c,java,swift,rust)](https://skillicons.dev)
 
 ### My Tech stack
 [![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,vite,vercel,netlify,jest,rollupjs,webpack,blender)](https://skillicons.dev)
 
-### Tools I use
-[![Tools](https://skillicons.dev/icons?i=vscode,github,bash,figma)](https://skillicons.dev)
-
-### Github Stats
-[![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoorajSNBlaze333&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SoorajSNBlaze333/github-readme-stats)
-
-### Top Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoorajSNBlaze333&theme=dark#gh-dark-mode-only)](https://github.com/SoorajSNBlaze333/github-readme-stats)
 
 ### My Articles
 - [How to create a simple physics engine - Part 1](https://www.skcript.com/svr/how-to-create-a-simple-physics-engine-part-1/) (Trending Article in 2019)
