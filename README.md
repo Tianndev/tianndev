@@ -12,11 +12,13 @@ I am a software engineer and also a data analyst, I love learning about javascri
 - Game Development
 - Data Analytics
 
-### Languages I'm familiar with
-[![Languages](https://skillicons.dev/icons?i=js,python,flutter,ts,html,css,c,java,swift,rust)](https://skillicons.dev)
+### Languages I'm Familiar With  
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,flutter,java,swift,go,rust,c,cpp,html,css,markdown,json,yaml)](https://topgame.id)
 
-### My Tech stack
-[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,vite,vercel,netlify,jest,rollupjs,webpack,blender)](https://skillicons.dev)
+---
+
+### My Tech Stack  
+[![Tech Stack](https://skillicons.dev/icons?i=react,reactnative,nextjs,redux,vue,nuxt,astro,svelte,angular,nodejs,express,fastapi,nestjs,tailwind,bootstrap,sass,styledcomponents,vite,webpack,rollupjs,jest,vitest,storybook,graphql,prisma,supabase,firebase,mongodb,mysql,postgresql,redis,docker,nginx,vercel,netlify,aws,gcp,cloudflare,linux,figma,blender,bun)](https://topgame.id)
 
 > ### While you are here, stars to my repositories would be much appreciated 🤘🏻
 
